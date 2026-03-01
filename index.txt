@@ -2,3 +2,4 @@
 This line was modified in master branch
 This line was modified in feature branch
 This line is from feature branch.
+This line is added in master before rebase
